@@ -6,7 +6,6 @@
 ---
 ### Contact me:
 [<img alt="Discord" src="https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord&logoColor=5865F2" />][discordprofile]
-[<img alt="GitHub" src="https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github" />][github]
 [<img alt="Website" src="https://img.shields.io/static/v1?label=&message=Website&color=191919&style=for-the-badge&logo=Acclaim" />][portfolio]
 [<img alt="Email" src="https://img.shields.io/static/v1?label=&message=Email&color=191919&style=for-the-badge&logo=Acclaim" />][emailaddress]
 
