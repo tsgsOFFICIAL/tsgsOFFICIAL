@@ -11,18 +11,19 @@
 
 ---
 ### Languages:
-[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=Html5&logoColor=E34F26" />][portfolio]
-[<img alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=Css3&logoColor=1572B6" />][portfolio]
-[<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=Php&logoColor=#777BB4" />][portfolio]
-[<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=Javascript&logoColor=F7DF1E" />][portfolio]
-[<img alt="TypeScript" src="https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=Typescript&logoColor=3178C6" />][portfolio]
+[<img alt="HTML5" src="https://img.shields.io/static/v1?label=&message=HTML5&color=191919&style=for-the-badge&logo=Html5" />][portfolio]
+[<img alt="CSS3" src="https://img.shields.io/static/v1?label=&message=CSS3&color=191919&style=for-the-badge&logo=Css3" />][portfolio]
+[<img alt="PHP" src="https://img.shields.io/static/v1?label=&message=PHP&color=191919&style=for-the-badge&logo=Php" />][portfolio]
+[<img alt="JavaScript" src="https://img.shields.io/static/v1?label=&message=JavaScript&color=191919&style=for-the-badge&logo=Javascript" />][portfolio]
+[<img alt="TypeScript" src="https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=Typescript" />][portfolio]
+[<img alt="Svelte" src="https://img.shields.io/static/v1?label=&message=Svelte&color=191919&style=for-the-badge&logo=svelte" />][portfolio]
 [<img alt="Python" src="https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python" />][portfolio]
-[<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=Lua&logoColor=2C2D72" />][portfolio]
-[<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus&logoColor=00599C" />][portfolio]
-[<img alt="C#" src="https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=Sharp&logoColor=239120" />][portfolio]
-[<img alt="Rust" src="https://img.shields.io/static/v1?label=&message=Rust&color=191919&style=for-the-badge&logo=Rust&logoColor=00ADD8" />][portfolio]
-[<img alt="PostgreSQL" src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=191919&style=for-the-badge&logo=PostgreSQL&logoColor=00ADD8" />][portfolio]
-[<img alt=".NET" src="https://img.shields.io/static/v1?label=&message=.NET&color=191919&style=for-the-badge&logo=dotnet&logoColor=00ADD8" />][portfolio]
+[<img alt="LUA" src="https://img.shields.io/static/v1?label=&message=Lua&color=191919&style=for-the-badge&logo=Lua" />][portfolio]
+[<img alt="C++" src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=191919&style=for-the-badge&logo=Cplusplus" />][portfolio]
+[<img alt="C#" src="https://img.shields.io/static/v1?label=&message=C%23&color=191919&style=for-the-badge&logo=Sharp" />][portfolio]
+[<img alt="Rust" src="https://img.shields.io/static/v1?label=&message=Rust&color=191919&style=for-the-badge&logo=Rust" />][portfolio]
+[<img alt="PostgreSQL" src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=191919&style=for-the-badge&logo=PostgreSQL" />][portfolio]
+[<img alt=".NET" src="https://img.shields.io/static/v1?label=&message=.NET&color=191919&style=for-the-badge&logo=dotnet" />][portfolio]
 [<img alt="Many more" src="https://img.shields.io/static/v1?label=&message=And%20many%20more&color=191919&style=for-the-badge" />][portfolio]
 
 ---
