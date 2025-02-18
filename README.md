@@ -36,7 +36,7 @@
 ---
 ### My GitHub Stats:
 [<img width="60%" alt="marcusportfolio.runasp.net" src="https://github-readme-stats.vercel.app/api?username=tsgsOFFICIAL&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true&rank_icon=github&text_color=ADBAC7" />][github]
-[<img width="35%" alt="marcusportfolio.runasp.net" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsgsOFFICIAL&theme=transparent&hide_border=true&layout=compact&title_color=ADBAC7" />][github]
+[<img width="39%" alt="marcusportfolio.runasp.net" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsgsOFFICIAL&theme=transparent&hide_border=true&layout=compact&title_color=ADBAC7" />][github]
 
 ---
 ### Discord Status:
