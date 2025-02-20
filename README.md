@@ -1,6 +1,6 @@
 <span>
   <h3>Hi there 👋</h3>
-  <img height="25" src="https://komarev.com/ghpvc/?username=tsgsOFFICIAL&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+  <img height="25" src="https://komarev.com/ghpvc/?username=tsgsOFFICIAL&label=Profile%20views&color=0e75b6&style=for-the-badge&base=0"/>
 </span>
 
 ---
