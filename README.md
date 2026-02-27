@@ -12,8 +12,10 @@
 ## Contact me
 
 [<img alt="Discord" src="https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord&logoColor=5865F2" />][discordprofile]
-[<img alt="Website" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=191919&style=for-the-badge&logo=Acclaim" />][portfolio]
+[<img alt="Discord Server" src="https://img.shields.io/static/v1?label=&message=DISCORD%20SERVER&color=191919&style=for-the-badge&logo=discord&logoColor=5865F2" />][discordserver]
 [<img alt="Email" src="https://img.shields.io/static/v1?label=&message=Email&color=191919&style=for-the-badge&logo=Acclaim" />][emailaddress]
+[<img alt="Website" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=191919&style=for-the-badge&logo=Acclaim" />][portfolio]
+[<img alt="Support on Ko-fi" src="https://img.shields.io/static/v1?label=&message=Support%20on%20Ko-fi&color=191919&style=for-the-badge&logo=ko-fi&logoColor=5865F2" />][kofi]
 
 ---
 
@@ -69,5 +71,6 @@
 [discordserver]: https://discord.gg/Cddu5aJ
 [discordprofile]: https://discord.com/users/227048094770921472
 [emailaddress]: mailto:marcusproman0507@gmail.com
+[kofi]: https://ko-fi.com/tsgsOFFICIAL
 
 </div>
