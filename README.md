@@ -4,7 +4,7 @@
 
 <span>
   <h1>Hi there, I'm tsgs👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2575&pause=1272&color=BD93F9&center=true&vCenter=true&width=500&lines=1+Line+Of+Code+At+A+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2575&pause=1272&color=00D400&center=true&vCenter=true&width=500&lines=1+Line+Of+Code+At+A+Time" alt="Typing SVG" />
 </span>
 
 ---
@@ -56,7 +56,7 @@
 
 ## Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/227048094770921472?borderRadius=35)](https://discord.com/users/227048094770921472)
+[![Discord Presence](https://lanyard.cnrad.dev/api/227048094770921472?borderRadius=35&showDisplayName=true&hideActivity=true&hideTimestamp=false)](https://discord.com/users/227048094770921472)
 
 ---
 
